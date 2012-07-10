@@ -49,7 +49,7 @@ else{
 	echo '<br /><input type="text" name="name" class="required" placeholder="    Pick a Username!" size="17" /><input type="submit" value="ENTER" /><br /><br /><hr></div><br />';
 	require_once('recaptchalib.php');
     $key = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX";
-    echo recaptcha_get_html($publickey);
+    echo recaptcha_get_html($key);
 	echo '<p align="center">Please fill in the captcha. This helps avoid spam.</p></form>';
 }
 ?>
