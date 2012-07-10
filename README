@@ -19,3 +19,6 @@ There is also a chat window to discuss the images.
 	-All users see a single image for 60 seconds.
 	-PHP / Javascript / MYSQL
 
+
+Apologies for stuff I left out...
+The remainder is just the timer + database interaction!
