@@ -1,0 +1,21 @@
+--Imageroll--
+
+This is just a repository for some of the classes I wrote, 
+that were used in the Imageroll project I did.
+
+The project is located here.
+http://smwyg.com/Imageroll.
+
+What is Imageroll?
+
+It's a small site I made that allows Image sharing with a twist.
+None of the images are stored on the site and each image only gets
+60 seconds for everyone to see. There is no registration, all that 
+is required is a nickname to  upload an image to the Queue. 
+There is also a chat window to discuss the images.
+	
+	-Easy Image sharing
+	-Simple Chat window
+	-All users see a single image for 60 seconds.
+	-PHP / Javascript / MYSQL
+
